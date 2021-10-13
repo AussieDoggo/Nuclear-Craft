@@ -9,4 +9,5 @@ Issues: Coming Soon
 
 Important Links:
 Curseforge link: https://www.curseforge.com/minecraft/modpacks/nuclear-craft
+
 Discord: Coming Soon
